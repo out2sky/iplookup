@@ -1,3 +1,3 @@
-del dist  /S /Q
-del build  /S /Q
-del __pycache__  /S /Q
+rd dist  /S /Q
+rd build  /S /Q
+rd __pycache__  /S /Q
